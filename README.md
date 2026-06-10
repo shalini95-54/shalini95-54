@@ -14,10 +14,10 @@
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shalini95-54/shalini95-54/output/github-contribution-grid-snake.svg)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shalini95-54&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=shalini95-54&theme=dark&hide_border=false)<br/>
